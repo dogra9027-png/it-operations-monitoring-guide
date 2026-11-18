@@ -1,5 +1,5 @@
 
-### [IT Operations Monitoring Guide](./05-it-operations-guide/README.md)
+# IT Operations Monitoring – Quick Reference Guide
 
 **Product:** Nexus IT Operations Platform (fictional)  
 **Audience:** IT Administrators and Support Analysts  
